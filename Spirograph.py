@@ -1,0 +1,16 @@
+import turtle as t
+t.speed(11)
+t.bgcolor("black")
+t.title("Spirograph")
+for i in range(100):
+    t.pencolor("green")
+    t.circle(50)
+    t.left(10)
+    t.pencolor("yellow")
+    t.circle(75)
+    t.left(10)
+    t.pencolor("red")
+    t.circle(100)
+    t.left(10)
+t.hideturtle()
+t.done()
