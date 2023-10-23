@@ -10,4 +10,4 @@ This simple Python program uses the Turtle graphics library to draw a colorful s
 4. Run the following command:
 
 ```bash
-python spiral_turtle.py
+python Spirograph.py
